@@ -70,3 +70,9 @@ median(gapminder$pop)
 # Challenege #2
 # Save R script
 # git add, commit, pull, push
+
+# CHALLENGE #3
+# think, pair, share
+# explain what everything that str(gapminder) print out means
+# since you've learned about factors, lists, and vectors
+str(gapminder)
